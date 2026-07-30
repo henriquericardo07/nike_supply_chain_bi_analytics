@@ -1,0 +1,7 @@
+store_id,store_name,city,county,store_type,opening_date,capacity_units
+1,Nike Dublin Flagship,Dublin,Dublin,Flagship,2018-03-01,9000
+2,Nike Kildare Outlet,Kildare,Kildare,Outlet,2017-06-10,6500
+3,Nike Cork Store,Cork,Cork,Retail,2019-05-18,4800
+4,Nike Galway Store,Galway,Galway,Retail,2020-08-05,3600
+5,Nike Limerick Store,Limerick,Limerick,Retail,2021-02-20,3400
+6,Nike Ireland Online Fulfilment Hub,Dublin,Dublin,Online Fulfilment,2016-11-15,12000

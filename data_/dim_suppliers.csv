@@ -1,0 +1,21 @@
+supplier_id,supplier_name,supplier_country,supplier_region,supplier_type,contract_start_date,lead_time_days,reliability_score,quality_score,on_time_delivery_rate,risk_level
+1,Nike Vietnam Manufacturing,Vietnam,Asia,Footwear Manufacturer,2022-12-03,56,65,72,76,High
+2,Nike China Footwear Co,China,Asia,Footwear Manufacturer,2020-12-17,48,73,87,68,High
+3,Nike Indonesia Sportswear,Indonesia,Asia,Apparel Manufacturer,2021-07-10,51,78,88,82,High
+4,Nike Cambodia Apparel Ltd,Cambodia,Asia,Apparel Manufacturer,2020-09-18,49,76,88,82,Medium
+5,Nike India Performance Textiles,India,Asia,Materials Supplier,2021-05-15,57,56,85,67,High
+6,Nike Turkey Manufacturing,Turkey,Europe,Footwear Manufacturer,2022-12-08,29,84,92,94,Low
+7,Nike Portugal Logistics Support,Portugal,Europe,Logistics Partner,2019-10-09,33,89,67,92,Low
+8,Nike Netherlands Distribution Partner,Netherlands,Europe,Distribution Partner,2021-10-30,24,78,89,95,Low
+9,Nike Germany Materials Group,Germany,Europe,Materials Supplier,2022-10-15,31,83,90,95,Low
+10,Nike Belgium Transport Services,Belgium,Europe,Logistics Partner,2022-09-06,19,81,72,92,Low
+11,Prime Asia Footwear,Vietnam,Asia,Footwear Manufacturer,2020-09-24,62,71,68,75,High
+12,EastWave Apparel Manufacturing,China,Asia,Apparel Manufacturer,2020-09-12,31,66,74,79,Medium
+13,Pacific Sports Components,Indonesia,Asia,Materials Supplier,2021-07-16,63,70,79,75,High
+14,EuroRoute Logistics,Netherlands,Europe,Logistics Partner,2020-11-27,31,95,80,85,Low
+15,Atlantic Footwear Group,Portugal,Europe,Footwear Manufacturer,2023-06-25,32,83,93,90,Low
+16,Global Performance Supply,Turkey,Europe,Footwear Manufacturer,2020-09-15,18,83,88,84,Low
+17,Sprint Materials Asia,India,Asia,Materials Supplier,2021-03-31,35,73,81,72,Medium
+18,Velocity Manufacturing Hub,Cambodia,Asia,Apparel Manufacturer,2021-07-20,62,55,69,64,High
+19,CoreFit Industrial Supply,Germany,Europe,Materials Supplier,2019-08-18,26,83,72,84,Low
+20,TransitPro Europe,Belgium,Europe,Logistics Partner,2023-12-20,19,70,87,78,Medium

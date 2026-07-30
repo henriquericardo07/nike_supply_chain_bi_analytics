@@ -1,0 +1,121 @@
+product_id,sku,product_name,category,sub_category,launch_year,standard_cost,unit_price,is_core_product,supplier_id
+1,NI-1001,Nike React Infinity Run 1,Running Shoes,Performance,2021,61.39,125.71,No,5
+2,NI-1002,Nike Air Zoom Pegasus 2,Running Shoes,Performance,2023,88.02,200.36,No,3
+3,NI-1003,Nike Downshifter 3,Running Shoes,Casual,2025,22.83,182.39,Yes,14
+4,NI-1004,Nike Court Vision 4,Lifestyle Footwear,Casual,2021,22.2,143.64,Yes,13
+5,NI-1005,Nike Court Vision 5,Lifestyle Footwear,Casual,2024,29.75,140.44,No,4
+6,NI-1006,Nike Revolution 6 6,Running Shoes,Casual,2023,25.39,127.67,Yes,4
+7,NI-1007,Nike React Infinity Run 1,Running Shoes,Performance,2020,76.57,172.34,No,2
+8,NI-1008,Nike City Streetwear Hoodie 2,Sportswear,Lifestyle,2024,81.83,62.57,Yes,12
+9,NI-1009,Nike Air Force 1 3,Lifestyle Footwear,Lifestyle,2024,27.7,102.79,Yes,7
+10,NI-1010,Nike Gym Essential Tee 4,Sportswear,Training,2021,20.49,78.41,Yes,20
+11,NI-1011,Nike Training Backpack 5,Accessories,Utility,2019,28.39,40.32,No,5
+12,NI-1012,Nike Air Max 270 6,Lifestyle Footwear,Lifestyle,2022,45.45,177.18,No,9
+13,NI-1013,Nike Air Zoom Pegasus 1,Running Shoes,Performance,2020,69.86,109.25,No,7
+14,NI-1014,Nike Air Force 1 2,Lifestyle Footwear,Lifestyle,2020,55.19,85.15,Yes,17
+15,NI-1015,Nike Metcon Trainer 3,Sportswear,Training,2024,30.14,76.6,No,1
+16,NI-1016,Nike Court Vision 4,Lifestyle Footwear,Casual,2025,73.31,103.76,No,4
+17,NI-1017,Nike Infinity Road 5,Running Shoes,Performance,2022,88.84,141.85,No,5
+18,NI-1018,Nike Academy Backpack 6,Accessories,Utility,2019,30.55,53.11,No,16
+19,NI-1019,Nike Air Zoom Pegasus 1,Running Shoes,Performance,2022,42.82,118.63,No,3
+20,NI-1020,Nike City Streetwear Hoodie 2,Sportswear,Lifestyle,2025,32.21,93.73,Yes,19
+21,NI-1021,Nike Metcon Trainer 3,Sportswear,Training,2021,43.87,44.65,No,18
+22,NI-1022,Nike City Streetwear Hoodie 4,Sportswear,Lifestyle,2022,32.25,118.48,No,10
+23,NI-1023,Nike Training Backpack 5,Accessories,Utility,2020,89.74,87.41,No,17
+24,NI-1024,Nike Court Vision 6,Lifestyle Footwear,Casual,2019,44.44,152.6,No,9
+25,NI-1025,Nike Everyday Socks 1,Accessories,Utility,2022,25.89,27.12,No,1
+26,NI-1026,Nike Gym Essential Tee 2,Sportswear,Training,2024,85.81,117.76,Yes,20
+27,NI-1027,Nike Downshifter 3,Running Shoes,Casual,2020,53.99,148.3,No,14
+28,NI-1028,Nike Air Zoom Pegasus 4,Running Shoes,Performance,2019,21.27,154.21,Yes,4
+29,NI-1029,Nike ZoomX Vaporfly 5,Running Shoes,Competition,2025,70.47,130.05,No,8
+30,NI-1030,Nike Training Backpack 6,Accessories,Utility,2024,38.56,33.3,No,19
+31,NI-1031,Nike Dri-FIT Tee 1,Sportswear,Training,2021,50.41,64.76,No,13
+32,NI-1032,Nike Downshifter 2,Running Shoes,Casual,2019,33.67,183.92,Yes,15
+33,NI-1033,Nike Revolution 6 3,Running Shoes,Casual,2019,23.05,219.29,No,3
+34,NI-1034,Nike Metcon Trainer 4,Sportswear,Training,2021,72.34,116.01,Yes,14
+35,NI-1035,Nike Dri-FIT Tee 5,Sportswear,Training,2021,88.62,41.4,Yes,14
+36,NI-1036,Nike React Infinity Run 6,Running Shoes,Performance,2021,31.86,162.38,No,1
+37,NI-1037,Nike Air Force 1 1,Lifestyle Footwear,Lifestyle,2024,26.8,141.5,No,3
+38,NI-1038,Nike Pro Shorts 2,Sportswear,Training,2020,81.42,97.97,No,2
+39,NI-1039,Nike React Infinity Run 3,Running Shoes,Performance,2024,45.16,128.17,No,11
+40,NI-1040,Nike Sportswear Hoodie 4,Sportswear,Lifestyle,2023,25.71,35.44,No,3
+41,NI-1041,Nike Sportswear Hoodie 5,Sportswear,Lifestyle,2024,75.71,110.65,Yes,20
+42,NI-1042,Nike Academy Backpack 6,Accessories,Utility,2020,50.69,65.4,Yes,2
+43,NI-1043,Nike Downshifter 1,Running Shoes,Casual,2022,22.72,129.42,No,17
+44,NI-1044,Nike Air Max 270 2,Lifestyle Footwear,Lifestyle,2019,77.95,107.15,No,5
+45,NI-1045,Nike Everyday Socks 3,Accessories,Utility,2022,78.94,29.58,Yes,7
+46,NI-1046,Nike City Streetwear Hoodie 4,Sportswear,Lifestyle,2022,29.29,117.41,No,3
+47,NI-1047,Nike React Infinity Run 5,Running Shoes,Performance,2019,47.92,146.36,No,19
+48,NI-1048,Nike Pro Shorts 6,Sportswear,Training,2024,78.52,94.16,Yes,5
+49,NI-1049,Nike Air Force 1 1,Lifestyle Footwear,Lifestyle,2025,37.52,134.92,No,1
+50,NI-1050,Nike City Streetwear Hoodie 2,Sportswear,Lifestyle,2019,86.84,97.72,No,8
+51,NI-1051,Nike Structure Trainer 3,Running Shoes,Training,2022,59.62,110.62,Yes,3
+52,NI-1052,Nike Academy Backpack 4,Accessories,Utility,2022,23.22,18.05,No,14
+53,NI-1053,Nike Sportswear Hoodie 5,Sportswear,Lifestyle,2020,73.44,103.59,Yes,20
+54,NI-1054,Nike Gym Essential Tee 6,Sportswear,Training,2020,86.44,110.37,Yes,5
+55,NI-1055,Nike Metcon Trainer 1,Sportswear,Training,2020,55.07,80.85,No,10
+56,NI-1056,Nike Air Force 1 2,Lifestyle Footwear,Lifestyle,2025,86.1,166.72,No,16
+57,NI-1057,Nike Air Max 270 3,Lifestyle Footwear,Lifestyle,2022,47.17,144.33,No,20
+58,NI-1058,Nike Court Vision 4,Lifestyle Footwear,Casual,2021,85.9,118.61,No,19
+59,NI-1059,Nike Structure Trainer 5,Running Shoes,Training,2021,33.71,99.02,Yes,10
+60,NI-1060,Nike Air Force 1 6,Lifestyle Footwear,Lifestyle,2023,26.61,148.3,Yes,2
+61,NI-1061,Nike Court Vision 1,Lifestyle Footwear,Casual,2023,79.14,82.33,No,8
+62,NI-1062,Nike React Infinity Run 2,Running Shoes,Performance,2025,28.27,180.58,No,9
+63,NI-1063,Nike Pro Shorts 3,Sportswear,Training,2023,39.74,50.08,No,4
+64,NI-1064,Nike Downshifter 4,Running Shoes,Casual,2019,71.22,106.6,Yes,3
+65,NI-1065,Nike Everyday Socks 5,Accessories,Utility,2022,50.03,71.32,No,5
+66,NI-1066,Nike Sportswear Hoodie 6,Sportswear,Lifestyle,2019,55.37,105.25,Yes,9
+67,NI-1067,Nike ZoomX Vaporfly 1,Running Shoes,Competition,2019,23.74,214.61,No,19
+68,NI-1068,Nike Sportswear Hoodie 2,Sportswear,Lifestyle,2024,67.37,76.01,No,9
+69,NI-1069,Nike Sportswear Hoodie 3,Sportswear,Lifestyle,2021,62.17,82.06,Yes,16
+70,NI-1070,Nike Metcon Trainer 4,Sportswear,Training,2023,85.17,117.81,No,16
+71,NI-1071,Nike Downshifter 5,Running Shoes,Casual,2021,82.14,135.62,Yes,5
+72,NI-1072,Nike Air Force 1 6,Lifestyle Footwear,Lifestyle,2019,73.31,141.82,Yes,12
+73,NI-1073,Nike Academy Backpack 1,Accessories,Utility,2024,69.07,20.46,No,7
+74,NI-1074,Nike ZoomX Vaporfly 2,Running Shoes,Competition,2023,55.93,120.32,No,2
+75,NI-1075,Nike City Streetwear Hoodie 3,Sportswear,Lifestyle,2022,36.57,112.15,No,13
+76,NI-1076,Nike Court Vision 4,Lifestyle Footwear,Casual,2024,69.57,128.17,Yes,4
+77,NI-1077,Nike ZoomX Vaporfly 5,Running Shoes,Competition,2021,37.41,132.93,Yes,7
+78,NI-1078,Nike Everyday Socks 6,Accessories,Utility,2023,48.36,57.86,No,13
+79,NI-1079,Nike Pro Shorts 1,Basketball Shoes,Performance,2019,72.09,174.91,Yes,8
+80,NI-1080,Nike Downshifter 2,Running Shoes,Casual,2019,80.8,119.07,No,17
+81,NI-1081,Nike City Streetwear Hoodie 3,Sportswear,Lifestyle,2023,23.02,110.75,No,12
+82,NI-1082,Nike Court Vision 4,Lifestyle Footwear,Casual,2022,25.17,135.39,No,11
+83,NI-1083,Nike Dri-FIT Tee 5,Sportswear,Training,2019,68.7,73.64,No,18
+84,NI-1084,Nike Air Max 270 6,Lifestyle Footwear,Lifestyle,2025,23.18,108.1,No,3
+85,NI-1085,Nike Court Vision 1,Lifestyle Footwear,Casual,2024,51.9,142.01,Yes,8
+86,NI-1086,Nike Air Max 270 2,Lifestyle Footwear,Lifestyle,2020,47.18,102.94,Yes,4
+87,NI-1087,Nike Dri-FIT Tee 3,Sportswear,Training,2021,68.87,80.57,Yes,5
+88,NI-1088,Nike Pro Shorts 4,Sportswear,Training,2023,29.32,41.48,No,20
+89,NI-1089,Nike Downshifter 5,Running Shoes,Casual,2023,62.94,144.37,No,19
+90,NI-1090,Nike Air Force 1 6,Lifestyle Footwear,Lifestyle,2021,23.17,82.64,Yes,18
+91,NI-1091,Nike Metcon Trainer 1,Sportswear,Training,2025,30.53,85.5,Yes,1
+92,NI-1092,Nike Gym Essential Tee 2,Sportswear,Training,2020,22.58,46.38,Yes,17
+93,NI-1093,Nike Dri-FIT Tee 3,Sportswear,Training,2023,89.98,119.71,No,6
+94,NI-1094,Nike Metcon Trainer 4,Sportswear,Training,2020,79.48,56.02,No,5
+95,NI-1095,Nike Winflo Runner 5,Running Shoes,Performance,2019,86.78,168.8,Yes,14
+96,NI-1096,Nike Pro Shorts 6,Sportswear,Training,2020,45.07,44.65,No,17
+97,NI-1097,Nike Everyday Socks 1,Accessories,Utility,2024,74.06,54.01,No,2
+98,NI-1098,Nike Revolution 6 2,Running Shoes,Casual,2023,26.19,192.94,No,12
+99,NI-1099,Nike Downshifter 3,Running Shoes,Casual,2025,72.86,170.64,No,15
+100,NI-1100,Nike Revolution 6 4,Running Shoes,Casual,2025,29.55,91.89,Yes,19
+101,NI-1101,Nike Court Vision 5,Lifestyle Footwear,Casual,2020,47.46,123.75,No,2
+102,NI-1102,Nike City Streetwear Hoodie 6,Sportswear,Lifestyle,2019,74.86,68.71,No,20
+103,NI-1103,Nike City Streetwear Hoodie 1,Sportswear,Lifestyle,2023,30.3,113.76,No,19
+104,NI-1104,Nike Downshifter 2,Running Shoes,Casual,2023,88.6,154.04,Yes,20
+105,NI-1105,Nike Gym Essential Tee 3,Sportswear,Training,2021,25.31,45.95,Yes,11
+106,NI-1106,Nike Training Backpack 4,Accessories,Utility,2024,68.84,28.51,No,11
+107,NI-1107,Nike Gym Essential Tee 5,Sportswear,Training,2021,66.73,49.65,Yes,3
+108,NI-1108,Nike Pro Shorts 6,Sportswear,Training,2020,39.5,50.05,Yes,19
+109,NI-1109,Nike Sportswear Hoodie 1,Sportswear,Lifestyle,2022,34.44,65.96,No,1
+110,NI-1110,Nike Court Vision 2,Lifestyle Footwear,Casual,2021,22.75,159.94,No,13
+111,NI-1111,Nike Revolution 6 3,Running Shoes,Casual,2024,30.99,139.05,Yes,15
+112,NI-1112,Nike Infinity Road 4,Running Shoes,Performance,2019,25.92,167.65,No,4
+113,NI-1113,Nike Winflo Runner 5,Running Shoes,Performance,2025,84.68,120.7,No,15
+114,NI-1114,Nike Air Force 1 6,Lifestyle Footwear,Lifestyle,2020,72.32,83.67,Yes,14
+115,NI-1115,Nike Air Max 270 1,Lifestyle Footwear,Lifestyle,2021,82.66,131.17,No,7
+116,NI-1116,Nike React Infinity Run 2,Running Shoes,Performance,2020,51.32,159.24,Yes,13
+117,NI-1117,Nike Revolution 6 3,Running Shoes,Casual,2022,21.4,131.87,Yes,5
+118,NI-1118,Nike ZoomX Vaporfly 4,Running Shoes,Competition,2019,82.34,167.17,No,12
+119,NI-1119,Nike Training Backpack 5,Accessories,Utility,2019,54.89,21.52,No,3
+120,NI-1120,Nike Academy Backpack 6,Accessories,Utility,2025,72.18,47.37,Yes,2
